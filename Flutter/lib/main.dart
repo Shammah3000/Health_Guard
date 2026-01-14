@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:health_guard/core/theme/app_theme.dart';
 import 'package:provider/provider.dart';
-import '../features/vitals/logic/vitals_provider.dart';
-import '../features/vitals/screens/vitals_dashboard.dart';
+import '../../features/vitals/logic/vitals_provider.dart';
+import '../../features/vitals/screens/vitals_dashboard.dart';
 
 void main() {
   runApp(
